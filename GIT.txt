@@ -10,4 +10,7 @@ git -add is used to a file into he repository
 
 cls is used to clear command line terminal
 
+git commit -m "Commit message/comment" - command to commit a file
+
+git commit -m "Commit testing" - initial command
 

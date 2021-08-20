@@ -1,0 +1,13 @@
+GITHUB is GIT repository hosting service
+
+GIT trackes changes to the local repository and then pushes the code to GITHUB repository
+git init command convers a directlory into git repository i.e. by creating a hidden git repo
+
+git status gives status of the repository
+
+
+git -add is used to a file into he repository
+
+cls is used to clear command line terminal
+
+

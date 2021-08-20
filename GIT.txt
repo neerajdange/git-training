@@ -25,5 +25,24 @@ git push will push the file into github repo
 
 git clone url from GITHUB - to create a clone repository
 
+git push origin main.master pushes all the changes to the original directory
+
+Every time we start working we need to request to pull the latest changes in the repository
+
+Git Pull merges changes from GITHUB repository to our local repository
+
+git checkout -b branchname - command to create a new branch - usally branch name is give based on features
+
+git checkout branchname is the command to switch branches
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+This is a new Branch file Private Branch 1
+
+
+
+
 
 

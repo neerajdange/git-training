@@ -19,5 +19,11 @@ git diff - to find out difference between two versions
 
 git log - to get log details of the file
 
+git remote add origin https://github.com/neerajdange/git-training.git (Repository Name) to create connection between local git repo and github repository
+
+git push will push the file into github repo
+
+git clone url from GITHUB - to create a clone repository
+
 
 

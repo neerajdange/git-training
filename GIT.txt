@@ -36,6 +36,29 @@ git checkout -b branchname - command to create a new branch - usally branch name
 git checkout branchname is the command to switch branches
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------
 
 

@@ -25,5 +25,9 @@ git push will push the file into github repo
 
 git clone url from GITHUB - to create a clone repository
 
+-------------------------------------------------------------------------
+
+Private Branch 2 changes
+
 
 

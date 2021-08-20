@@ -35,6 +35,14 @@ git checkout -b branchname - command to create a new branch - usally branch name
 
 git checkout branchname is the command to switch branches
 
+git push origin branchname - is used to push changes to repo from local
+
+git pull origin branchname - is used to pull changes to repo from local
+
+git merge branchname - ise used to merge changes into main branch
+
+After merging the changes have to again pushed into Repo from locak using git push origin branchname
+
 
 --------------------------------------------------------------------------------------------------------------------
 

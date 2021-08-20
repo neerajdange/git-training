@@ -1,7 +1,8 @@
 GITHUB is GIT repository hosting service
 
 GIT trackes changes to the local repository and then pushes the code to GITHUB repository
-git init command convers a directlory into git repository i.e. by creating a hidden git repo
+
+git init command convers a directlory into git repository i.e. by creating a hidden git repo. It initializes GIT repository.
 
 git status gives status of the repository
 
@@ -13,4 +14,10 @@ cls is used to clear command line terminal
 git commit -m "Commit message/comment" - command to commit a file
 
 git commit -m "Commit testing" - initial command
+
+git diff - to find out difference between two versions
+
+git log - to get log details of the file
+
+
 
